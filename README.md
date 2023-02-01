@@ -1,4 +1,5 @@
 ## Hey, qibin here! :wave:
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=qibin0506&theme=dark&show_icons=true">](https://metrics.lecoq.io/qibin0506#gh-dark-mode-only)
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=qibin0506&show_icons=true">](https://metrics.lecoq.io/qibin0506#gh-light-mode-only)
 
+
+| <a href="https://github.com/qibin0506/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=qibin0506&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Qibin's github stats" /></a> | <a href="https://github.com/qibin0506/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qibin0506&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
