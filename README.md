@@ -1,3 +1,4 @@
-### Hi there 👋
+## Hey, qibin here! :wave:
 
-[![qibin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qibin0506&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=qibin0506&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=qibin0506&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
